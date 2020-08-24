@@ -1,0 +1,16 @@
+{
+	"name": "com.sasaki.toolkit",
+	"version": "1.0.0",
+	"displayName": "Sasaki Toolkit",
+	"description": "A small working toolkit for making dope things",
+	"unity": "2020.1",
+	"dependencies": {
+
+	},
+	"keywords": ["tools", "toolkit", "sasaki"],
+	"author": {
+		"name": "David Morgan",
+		"email": "dmmorgan@sasaki.com"
+	}
+
+}
